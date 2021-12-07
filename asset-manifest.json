@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Coinbook-app/static/css/main.790f144a.chunk.css",
-    "main.js": "/Coinbook-app/static/js/main.329a86cc.chunk.js",
-    "main.js.map": "/Coinbook-app/static/js/main.329a86cc.chunk.js.map",
+    "main.css": "/Coinbook-app/static/css/main.a39bf41c.chunk.css",
+    "main.js": "/Coinbook-app/static/js/main.a5765439.chunk.js",
+    "main.js.map": "/Coinbook-app/static/js/main.a5765439.chunk.js.map",
     "runtime-main.js": "/Coinbook-app/static/js/runtime-main.7b6ca920.js",
     "runtime-main.js.map": "/Coinbook-app/static/js/runtime-main.7b6ca920.js.map",
     "static/js/2.80888088.chunk.js": "/Coinbook-app/static/js/2.80888088.chunk.js",
     "static/js/2.80888088.chunk.js.map": "/Coinbook-app/static/js/2.80888088.chunk.js.map",
     "index.html": "/Coinbook-app/index.html",
-    "static/css/main.790f144a.chunk.css.map": "/Coinbook-app/static/css/main.790f144a.chunk.css.map",
+    "static/css/main.a39bf41c.chunk.css.map": "/Coinbook-app/static/css/main.a39bf41c.chunk.css.map",
     "static/js/2.80888088.chunk.js.LICENSE.txt": "/Coinbook-app/static/js/2.80888088.chunk.js.LICENSE.txt",
     "static/media/logoheader.67649faa.svg": "/Coinbook-app/static/media/logoheader.67649faa.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b6ca920.js",
     "static/js/2.80888088.chunk.js",
-    "static/css/main.790f144a.chunk.css",
-    "static/js/main.329a86cc.chunk.js"
+    "static/css/main.a39bf41c.chunk.css",
+    "static/js/main.a5765439.chunk.js"
   ]
 }
